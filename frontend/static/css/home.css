@@ -1,0 +1,14 @@
+/* img{
+    max-width: 100%;
+    height: 100vh;
+    position: relative;
+} */
+.main-background{
+    /* background-image: url('https://images.pexels.com/photos/4047146/pexels-photo-4047146.jpeg?cs=srgb&dl=pexels-karolina-grabowska-4047146.jpg&fm=jpg'); */
+    background-image: url("../images/sample.jpg");   
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: 100vh;
+    padding: 1rem;
+}

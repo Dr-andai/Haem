@@ -1,0 +1,8 @@
+.main2{
+    background-image: url('https://images.pexels.com/photos/4040561/pexels-photo-4040561.jpeg?cs=srgb&dl=pexels-karolina-grabowska-4040561.jpg&fm=jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: 100vh;
+    padding: 1rem;
+}
