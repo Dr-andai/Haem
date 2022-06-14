@@ -4,8 +4,7 @@
     position: relative;
 } */
 .main-background{
-    /* background-image: url('https://images.pexels.com/photos/4047146/pexels-photo-4047146.jpeg?cs=srgb&dl=pexels-karolina-grabowska-4047146.jpg&fm=jpg'); */
-    background-image: url("../images/sample.jpg");   
+    background-image: url('https://github.com/TheSPIDERshadow/Haem/blob/master/frontend/static/images/sample.jpg?raw=true');
     background-size: cover;
     background-repeat: no-repeat;
     max-width: 100%;

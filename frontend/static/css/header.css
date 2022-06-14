@@ -1,8 +1,9 @@
 .navbar{
+    display: flex;
     background-color: transparent;
     position: relative;
 }
-/* .navbar ul li{
+.navbar ul li{
     list-style: none;
     display: inline-block;
     margin: 0 20px;
@@ -24,4 +25,4 @@
 }
 .navbar ul li :hover::after{
     width: 100%;
-} */
+}
