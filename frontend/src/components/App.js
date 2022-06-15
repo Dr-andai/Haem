@@ -1,17 +1,19 @@
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
-import sample1 from "/frontend/static/images/sample.jpg";
+
 
 
 import Header from './layout/Header';
 import HomePage from './HomePage';
-// import LandPage from './LandPage';
+import BlogPage from './BlogPage';
+
 
 function App (){
         return (
         <div>
         <Header />
         <HomePage />
+        <BlogPage />
         {/* <LandPage /> */}
         </div>
         )
