@@ -6,7 +6,7 @@ function BlogPage () {
   
     return (
       <div className='background'>
-        <h1> welcome </h1>
+        
           </div>
     );
 

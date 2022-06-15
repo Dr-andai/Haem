@@ -10,9 +10,9 @@ function HomePage () {
                <div className='main-background'>
                 
                <div className='container'>
-               <p>Unicode:
+               {/* <p>Unicode:
                   <span className="glyphicon">&#xe080;</span>
-                </p> 
+                </p>  */}
                   </div>
                </div>
               

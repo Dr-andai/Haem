@@ -8,7 +8,7 @@ import "/frontend/static/css/header.css"
 function Header() {
     return (
             <div className="navbar">
-                  <h4> Haem Products</h4>
+                  <h4 className='logo'> Haem Products</h4>
                   <ul>
                     <li><a href="#" className="header-link">Home</a></li>
                     <li><a href="#" className="header-link">Blog</a></li>

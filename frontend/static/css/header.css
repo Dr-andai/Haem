@@ -1,7 +1,15 @@
 .navbar{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
     display: flex;
     background-color: transparent;
-    position: relative;
+    position: fixed;
+    justify-content: space-between;
+}
+.logo{
+    width: 120px;
+    cursor: pointer;
 }
 .navbar ul li{
     list-style: none;
