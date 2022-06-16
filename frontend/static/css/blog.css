@@ -1,5 +1,5 @@
 .background{
-    background-image: url('https://github.com/TheSPIDERshadow/Haem/blob/master/frontend/static/images/blood-07.jpg?raw=true');
+    background-image: url('https://github.com/TheSPIDERshadow/Haem/blob/master/frontend/static/images/haem-07.jpg?raw=true');
     background-size: cover;
     background-repeat: no-repeat;
     display: grid;
@@ -32,8 +32,8 @@
     background: white;
     align-self: end;
     /* display: grid; */
-    padding: .5rem;
-    margin: .5rem;
+    padding: .3rem;
+    margin: .3rem;
     box-shadow: 0.2rem 0.25rem rgb(0 0 0 / .1);
   }
   .stacked{
@@ -47,4 +47,14 @@
     aspect-ratio: 1/1;
     width: 100%;
     object-fit: cover;
+  }
+  .card_title{
+    font-family: Futura;
+    font-size: 1rem;
+    color:  #6387e0;
+  }
+  .card_description{
+    font-family: Proxima Nova;
+    font-size: 0.75rem;
+    margin: 0 0 4px;
   }
