@@ -8,7 +8,7 @@ import "/frontend/static/css/header.css"
 function Header() {
     return (
             <div className="navbar">
-                  <h4 className='logo'> Haem Products</h4>
+              <img src= "https://github.com/TheSPIDERshadow/Haem/blob/master/frontend/static/images/Haem%20Logo-07.png?raw=true" className ="logo" />
                   <ul>
                     <li><a href="#" className="header-link">Home</a></li>
                     <li><a href="#" className="header-link">Blog</a></li>

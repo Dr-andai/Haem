@@ -1,14 +1,16 @@
 .navbar{
-    width: 85%;
+    width: 100%;
     margin: auto;
     padding: 35px 0;
     display: flex;
     background-color: transparent;
     position: fixed;
+    justify-self: center;
     justify-content: space-between;
 }
 .logo{
     width: 120px;
+    position: relative;
     cursor: pointer;
 }
 .navbar ul li{
